@@ -108,3 +108,16 @@ ul > li {
 #link > a:hover {
 	text-decoration: underline;
 }
+
+#related {
+	display: flex;
+	flex-flow: row nowrap;
+}
+
+#related > img {
+	padding: 1px;
+}
+
+#site-footer {
+	height: 100%;
+}
