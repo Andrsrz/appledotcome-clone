@@ -27,8 +27,6 @@ ul a {
 }
 
 #site-header {
-	display: flex;
-	flex-flow: row nowrap;
-	justify-content: center;
-	align-content: center;
+	margin: auto;
+	text-align: center;
 }
