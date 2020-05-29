@@ -12,3 +12,23 @@ body {
 	align-content: center;
 	justify-content: center;
 }
+
+ul {
+	list-style: none;
+}
+
+/* Horizontal list */
+ul > li {
+	display: inline;
+}
+
+ul a {
+	text-decoration: none;
+}
+
+#site-header {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-content: center;
+}
